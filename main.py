@@ -6,6 +6,7 @@ from google import genai
 from google.genai import types
 
 
+
 def main():
     try:
         load_dotenv()
